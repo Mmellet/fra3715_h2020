@@ -1,5 +1,7 @@
 # FRA3715_h2020
 
+<img src="img/main.jpg" width="8%" align="left"/>
+
 ## Séance 1 - *Introduction* : 8 Janvier
 
 1. Présentation des enjeux du cours
@@ -17,9 +19,16 @@
 4. Ressources documentaires 
 - [slides]()
 
+<img src="img/hybride.jpg" width="8%" align="left"/>
+
 ## Séance 2 - *Problématiser l'écriture et les nouveaux médias 1* : 15 janvier
 
+<img src="img/web.jpg" width="8%" align="left"/>
+
 ## Séance 3 - *Problématiser l'écriture et les nouveaux médias 2* : 22 janvier
+</br>
+
+<img src="img/stair.jpg" width="8%" align="left"/>
 
 ## Séance 4 - *Écriture Hypertexte* : 29 janvier 
 
