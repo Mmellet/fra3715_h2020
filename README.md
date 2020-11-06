@@ -23,59 +23,90 @@
 
 ## Séance 2 - *Problématiser l'écriture et les nouveaux médias 1* : 15 janvier
 
+- séances asynchrones : podcasts théorie
+- séance synchrone : rencontre, question & discussion
+
 <img src="img/web.jpg" width="8%" align="left"/>
 
 ## Séance 3 - *Problématiser l'écriture et les nouveaux médias 2* : 22 janvier
-</br>
+
+- séances asynchrones : podcasts théorie
+- séance synchrone : rencontre, question & discussion
 
 <img src="img/stair.jpg" width="8%" align="left"/>
 
 ## Séance 4 - *Écriture Hypertexte* : 29 janvier 
 
+- séances asynchrones : podcasts théorie & pratique
+- séance synchrone : atelier, question & discussion
+
 <img src="img/multimédia.jpg" width="8%" align="left"/>
 
 ## Séance 5 - *Écriture multimédiale* : 5 février
+
+- séances asynchrones : podcasts théorie & pratique
+- séance synchrone : atelier, question & discussion
 
 <img src="img/codedraw.png" width="8%" align="left"/>
 
 ## Séance 6 - *Écriture codée* : 12 février 
 
+- séances asynchrones : podcasts théorie & pratique
+- séance synchrone : atelier, question & discussion
+
 <img src="img/knoledge.jpg" width="8%" align="left"/>
 
 ## Séance 7 - *Écriture collaborative* : 19 février 
+
+- séances asynchrones : podcasts théorie & pratique
+- séance synchrone : atelier, question & discussion
 
 <img src="img/écran.jpg" width="8%" align="left"/>
 
 ## Séance 8 - *Auto-édition* : 26 février 
 
+- séances asynchrones : podcasts théorie & pratique
+- séance synchrone : atelier, question & discussion
+
 <img src="img/figure.jpg" width="8%" align="left"/>
 
 ## Séance 9 - *Jeu d'identité* : 12 mars 
-</br>
-</br>
+
+- séances asynchrones : podcasts théorie & pratique
+- séance synchrone : atelier, question & discussion
 
 <img src="img/cellule.JPG" width="8%" align="left"/>
 
 ## Séance 10 - *Écriture en réseaux* : 19 mars 
-</br>
-</br>
+
+- séances asynchrones : podcasts théorie & pratique
+- séance synchrone : atelier, question & discussion
 
 <img src="img/habitat.jpeg" width="8%" align="left"/>
 
 ## Séance 11 - *Écriture habitat* : 26 mars 
-</br>
-</br>
+
+- séances asynchrones : podcasts théorie & pratique
+- séance synchrone : atelier, question & discussion
 
 <img src="img/Glitch.png" width="8%" align="left"/>
 
 ## Séance 12 - *Écriture glitch* : 2 avril 
 
+- séances asynchrones : podcasts théorie & pratique
+- séance synchrone : atelier, question & discussion
+
 <img src="img/palimpseste.png" width="8%" align="left"/>
 
 ## Séance 13 - *Écriture palimpseste* : 9 avril 
+
+- séances asynchrones : podcasts théorie & pratique
+- séance synchrone : atelier, question & discussion
 
 <img src="img/photo.jpg" width="8%" align="left"/>
 
 ## Séance 14 - *Titre à venir* : 16 avril
 
+- séances asynchrones : podcasts théorie & pratique
+- séance synchrone : atelier, question & discussion
 
