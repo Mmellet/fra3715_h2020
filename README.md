@@ -1,4 +1,4 @@
-# FRA3715_h2020
+# FRA3715_H2020 : *Écriture et nouveaux médias*
 
 <img src="img/main.jpg" width="8%" align="left"/>
 
