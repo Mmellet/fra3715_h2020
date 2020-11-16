@@ -5,7 +5,7 @@
 ## Séance 1 - *Introduction* : 8 Janvier
 
 1. Présentation des enjeux du cours
-- [podcast]()
+- [podcast](https://mmellet.github.io/fra3715_h2020/podcast/seance1/Seance1-1.mp4)
 - [slides](https://mmellet.github.io/fra3715_h2020/Seance1_1.html#/)
 
 2. Présentation du calendrier et des modes de séances
