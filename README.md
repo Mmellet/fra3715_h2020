@@ -4,6 +4,8 @@
 
 ## Séance 1 - *Introduction* : 15 Janvier
 
+### Matériel asynchrone : 
+
 [1.] Présentation des enjeux du cours
 
 <ul>
@@ -28,6 +30,12 @@
   <li><a href="https://mmellet.github.io/fra3715_h2020/podcast/seance1/Seance1-1.mp4" onclick = "window.open(this.href); return false;">podcast</a></li>
   <li><a href="https://mmellet.github.io/fra3715_h2020/Seance1_1.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
 </ul>
+
+### Rencontre synchrone 
+
+- horaire : 10h30 
+
+- [lien pour la rencontre]()
 
 <img src="img/hybride.jpg" width="8%" align="left"/>
 
