@@ -9,31 +9,31 @@
 [1.] Présentation des enjeux du cours
 
 <ul>
-  <li><a href="https://mmellet.github.io/fra3715_h2020/podcast/seance1/Seance1-1.mp4" onclick = "window.open(this.href); return false;">podcast</a></li>
-  <li><a href="https://mmellet.github.io/fra3715_h2020/Seance1_1.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/podcast/Seance-1/Seance-1-1.mp4" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-1-1.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
 </ul>  
 
 [2.] Présentation du calendrier et des modes de séances
 <ul>
-  <li><a href="https://mmellet.github.io/fra3715_h2020/podcast/seance1/Seance1-2.mp4" onclick = "window.open(this.href); return false;">podcast</a></li>
-  <li><a href="https://mmellet.github.io/fra3715_h2020/Seance1_2.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/podcast/Seance-1/Seance-1-2.mp4" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-1-2.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
 </ul>
 
 [3.] Présentation des modes d'évaluation
 <ul>
-  <li><a href="https://mmellet.github.io/fra3715_h2020/podcast/seance1/Seance1-3.mp4" onclick = "window.open(this.href); return false;">podcast</a></li>
-  <li><a href="https://mmellet.github.io/fra3715_h2020/Seance1_3.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/podcast/Seance-1/Seance-1-3.mp4" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-1-3.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
 </ul>
 
 [4.] Ressources documentaires 
 <ul>
-  <li><a href="https://mmellet.github.io/fra3715_h2020/podcast/seance1/Seance1-1.mp4" onclick = "window.open(this.href); return false;">podcast</a></li>
-  <li><a href="https://mmellet.github.io/fra3715_h2020/Seance1_1.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/podcast/Seance-1/Seance-1-4.mp4" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-1-4.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
 </ul>
 
 ### Rencontre synchrone 
 
-- horaire : 10h30 
+- horaire : 9h30 
 
 - [lien pour la rencontre]()
 
