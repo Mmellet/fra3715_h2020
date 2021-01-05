@@ -35,7 +35,7 @@
 
 - horaire : 9h30 
 
-- [lien pour la rencontre]()
+- [lien pour la rencontre](https://jitsi.iro.umontreal.ca/FRA3715_H21-15janvier)
 
 <img src="img/hybride.jpg" width="8%" align="left"/>
 
