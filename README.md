@@ -46,7 +46,7 @@
 [1.] Structure de la séance
 
 <ul>
-  <li><a href="https://mmellet.github.io/fra3715_h2020/podcast/Seance-2/Seance-2-1.mp4" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/wXOu2TLTTuQiqrp" onclick = "window.open(this.href); return false;">podcast</a></li>
   <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-2-1.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
 </ul>  
 
