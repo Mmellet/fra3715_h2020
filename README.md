@@ -52,19 +52,19 @@
 
 [2.] Volet I : Entre image et parole
 <ul>
-  <li><a href="https://mmellet.github.io/fra3715_h2020/podcast/Seance-2/Seance-2-2.mp4" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/HukRvaQTAU2mXmr" onclick = "window.open(this.href); return false;">podcast</a></li>
   <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-2-2.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
 </ul>
 
 [3.] Volet II : Pouvoir de l'écriture
 <ul>
-  <li><a href="https://mmellet.github.io/fra3715_h2020/podcast/Seance-2/Seance-2-3.mp4" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/e4NLPgjNWGBPvn2" onclick = "window.open(this.href); return false;">podcast</a></li>
   <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-2-3.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
 </ul>
 
 [4.] Volet III : L'écriture en tant que média
 <ul>
-  <li><a href="https://mmellet.github.io/fra3715_h2020/podcast/Seance-2/Seance-1-4.mp4" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/kt1kqhQxmmtu70r" onclick = "window.open(this.href); return false;">podcast</a></li>
   <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-2-4.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
 </ul>
 
