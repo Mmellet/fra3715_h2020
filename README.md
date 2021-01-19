@@ -41,8 +41,38 @@
 
 ## Séance 2 - *Problématiser l'écriture et les nouveaux médias 1* : 22 janvier
 
-- séances asynchrones : podcasts théorie
-- séance synchrone : rencontre, question & discussion
+### Matériel asynchrone : 
+
+[1.] Structure de la séance
+
+<ul>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/podcast/Seance-2/Seance-2-1.mp4" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-2-1.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>  
+
+[2.] Volet I : Entre image et parole
+<ul>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/podcast/Seance-2/Seance-2-2.mp4" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-2-2.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>
+
+[3.] Volet II : Pouvoir de l'écriture
+<ul>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/podcast/Seance-2/Seance-2-3.mp4" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-2-3.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>
+
+[4.] Volet III : L'écriture en tant que média
+<ul>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/podcast/Seance-2/Seance-1-4.mp4" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-2-4.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>
+
+### Rencontre synchrone 
+
+- horaire : 10h 
+
+- [lien pour la rencontre](https://meet.jit.si/FRA3715_H21-22janvier)
 
 <img src="img/web.jpg" width="8%" align="left"/>
 
