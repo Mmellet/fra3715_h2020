@@ -83,6 +83,16 @@ Lecture pour la rencontre : <a href="http://owncloud.ecrituresnumeriques.ca/inde
 - séances asynchrones : podcasts théorie
 - séance synchrone : rencontre, question & discussion
 
+### Rencontre synchrone 
+
+- horaire : 10h
+
+- [lien pour la rencontre](https://meet.jit.si/FRA3715_H21-29janvier)
+
+Lecture pour la rencontre : <a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/mBLYLRYXHFC9EHz">Monjour, Vitali-Rosati, Wormser : Le fait littéraire à l'époque du littéraire (extrait)</a></div>
+
+(l'article au complet est disponible dans le <a href="https://www.zotero.org/groups/2530325/fra3715-20/library">Zotero</a> ou <a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/H0aqP8DtCRESpRo">ici</a>)
+
 <img src="slides/img/stair.jpg" width="8%" align="left"/>
 
 ## Séance 4 - *Écriture Hypertexte* : 5 février 
