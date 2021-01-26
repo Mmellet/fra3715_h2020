@@ -80,8 +80,33 @@ Lecture pour la rencontre : <a href="http://owncloud.ecrituresnumeriques.ca/inde
 
 ## Séance 3 - *Problématiser l'écriture et les nouveaux médias 2* : 29 janvier
 
-- séances asynchrones : podcasts théorie
-- séance synchrone : rencontre, question & discussion
+### Matériel asynchrone :
+
+[1.] Structure de la séance
+
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/c2xzZzOmbVNVR3e" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-3-1.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>  
+
+[2.] Volet I : Représenter le monde par des nombres
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/QfqSMLpCKXcgMRB" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-3-2.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>
+
+[3.] Volet II : Numérique dans l'histoire des médias d'écriture
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/9OE8MkZG0LwFTrz" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-3-3.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>
+
+[4.] Volet III : Matières à écrire numérique
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/979ccDb4eu58QoW" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-3-4.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>
+
 
 ### Rencontre synchrone 
 
@@ -89,9 +114,11 @@ Lecture pour la rencontre : <a href="http://owncloud.ecrituresnumeriques.ca/inde
 
 - [lien pour la rencontre](https://meet.jit.si/FRA3715_H21-29janvier)
 
-Lecture pour la rencontre : <a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/mBLYLRYXHFC9EHz">Monjour, Vitali-Rosati, Wormser : Le fait littéraire à l'époque du littéraire (extrait)</a></div>
+Lecture pour la rencontre : <a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/mBLYLRYXHFC9EHz">Monjour, Vitali-Rosati, Wormser : Le fait littéraire au temps du numérique (extrait)</a>
+(l'article au complet est disponible dans le <a href="https://www.zotero.org/groups/2530325/fra3715-20/library">Zotero</a> ou <a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/H0aqP8DtCRESpRo">ici</a>) 
 
-(l'article au complet est disponible dans le <a href="https://www.zotero.org/groups/2530325/fra3715-20/library">Zotero</a> ou <a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/H0aqP8DtCRESpRo">ici</a>)
+Quizz : <a href="https://framaforms.org/quel-modele-de-representation-1611591085">Quel modèle de représentation ?</a>
+
 
 <img src="slides/img/stair.jpg" width="8%" align="left"/>
 
