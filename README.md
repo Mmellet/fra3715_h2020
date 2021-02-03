@@ -124,8 +124,42 @@ Quizz : <a href="https://framaforms.org/quel-modele-de-representation-1611591085
 
 ## Séance 4 - *Écriture Hypertexte* : 5 février 
 
-- séances asynchrones : podcasts théorie & pratique
-- séance synchrone : atelier, question & discussion
+### Matériel asynchrone :
+
+[1.] Structure de la séance
+
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/ciDrgUssseALYOF" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-4-1.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>  
+
+[2.] Volet I : Poétique hypertextuelle
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/MNQrBevuxNnxjBC" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-4-2.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>
+
+[3.] Volet II : Écriture hypertexte
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/ZrwH7ISTeLEb033" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-4-3.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>
+
+[4.] Documentation
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/0OcjlEAI8V56RQ0" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://demo.hedgedoc.org/yeFepgMtRbqCB72ZyEKM6A?both#" onclick = "window.open(this.href); return false;">document partagé</a></li>
+</ul>
+
+### Rencontre synchrone 
+
+- horaire : 10h
+
+- [lien pour la rencontre](https://meet.jit.si/FRA3715_H21-5fevrier)
+
+- [Se créer un compte Hypothes.is](https://web.hypothes.is/start/)
+
+
 
 <img src="slides/img/multimédia.jpg" width="8%" align="left"/>
 
