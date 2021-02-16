@@ -210,13 +210,13 @@ Quizz : <a href="https://framaforms.org/quel-modele-de-representation-1611591085
 
 [2.] Code et écriture par écriture
 <ul>
-  <li><a href="" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/5aZvCBWEemt4i29" onclick = "window.open(this.href); return false;">podcast</a></li>
   <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-6-2.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
 </ul>
 
 [3.] Contrainte d'écriture
 <ul>
-  <li><a href="" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/5aZvCBWEemt4i29" onclick = "window.open(this.href); return false;">podcast</a></li>
   <li><a href="https://demo.hedgedoc.org/EeVyElwFQOukaaUyyLdztA#" onclick = "window.open(this.href); return false;">document partagé</a></li>
 </ul>
 
