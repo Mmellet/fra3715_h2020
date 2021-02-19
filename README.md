@@ -217,7 +217,7 @@ Quizz : <a href="https://framaforms.org/quel-modele-de-representation-1611591085
 [3.] Contrainte d'écriture
 <ul>
   <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/5aZvCBWEemt4i29" onclick = "window.open(this.href); return false;">podcast</a></li>
-  <li><a href="https://demo.hedgedoc.org/EeVyElwFQOukaaUyyLdztA#" onclick = "window.open(this.href); return false;">document partagé</a></li>
+  <li><a href="https://demo.hedgedoc.org/EeVyElwFQOukaaUyyLdztA" onclick = "window.open(this.href); return false;">document partagé</a></li>
 </ul>
 
 ### Rencontre synchrone 
