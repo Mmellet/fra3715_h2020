@@ -165,15 +165,67 @@ Quizz : <a href="https://framaforms.org/quel-modele-de-representation-1611591085
 
 ## Séance 5 - *Écriture multimédiale* : 12 février
 
-- séances asynchrones : podcasts théorie & pratique
-- séance synchrone : atelier, question & discussion
 
+### Matériel asynchrone :
+
+[1.] Structure de la séance
+
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/dm64HILqN0lUpEx" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-5-1.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>  
+
+[2.] Écriture multimédiale
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/ndYUfHH4yE9KvQO" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-5-2.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>
+
+[3.] Contrainte d'écriture
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/SIDFeqi2GQ6zVSy" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://demo.hedgedoc.org/2EBh0VBMThGECRtLZfGI5g?both" target="_blank">document commun</a></li>
+</ul>
+
+### Rencontre synchrone 
+
+- horaire : 9h30
+
+- [lien pour la rencontre](https://meet.jit.si/FRA3715_H21-12fevrier)
+
+   
 <img src="slides/img/codedraw.png" width="8%" align="left"/>
 
 ## Séance 6 - *Écriture codée* : 19 février 
 
-- séances asynchrones : podcasts théorie & pratique
-- séance synchrone : atelier, question & discussion
+
+### Matériel asynchrone :
+
+[1.] Structure de la séance
+
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/MWqyAZx5Z4xxmY8" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-6-1.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>  
+
+[2.] Code et écriture par écriture
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/5aZvCBWEemt4i29" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-6-2.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>
+
+[3.] Contrainte d'écriture
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/5aZvCBWEemt4i29" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://demo.hedgedoc.org/EeVyElwFQOukaaUyyLdztA" onclick = "window.open(this.href); return false;">document partagé</a></li>
+</ul>
+
+### Rencontre synchrone 
+
+- horaire : 9h30
+
+- [lien pour la rencontre](https://meet.jit.si/FRA3715_H21-19fevrier)
+
 
 <img src="slides/img/knoledge.jpg" width="8%" align="left"/>
 
