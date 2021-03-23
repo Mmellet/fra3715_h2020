@@ -320,8 +320,41 @@ Quizz : <a href="https://framaforms.org/quel-modele-de-representation-1611591085
 
 ## Séance 10 - *Écriture habitat* : 26 mars 
 
-- séances asynchrones : podcasts théorie & pratique
-- séance synchrone : atelier, question & discussion
+
+### Matériel asynchrone :
+
+[1.] Structure de la séance
+
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/wYXqrSm3fTqIaT6" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-10-1.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>  
+
+[2.] Écriture profilaire
+<ul>
+  <li><a href="" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-10-2.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>
+
+[3.] Nhumanité & écriture
+<ul>
+  <li><a href="" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-10-3.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>
+
+[4.] Contrainte d'écriture
+<ul>
+  <li><a href="" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="" target="_blank">document commun</a></li>
+</ul>
+
+### Rencontre synchrone 
+
+- horaire : 9h30
+
+- [lien pour la rencontre](https://meet.jit.si/FRA3715_H21-26mars)
+
+   
 
 <img src="slides/img/Glitch.png" width="8%" align="left"/>
 
