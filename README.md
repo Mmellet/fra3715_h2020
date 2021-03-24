@@ -330,22 +330,22 @@ Quizz : <a href="https://framaforms.org/quel-modele-de-representation-1611591085
   <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-10-1.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
 </ul>  
 
-[2.] Écriture profilaire
+[2.] Espace d'écrire numérique
 <ul>
-  <li><a href="" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/ySAAxc8rO4Ne14I" onclick = "window.open(this.href); return false;">podcast</a></li>
   <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-10-2.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
 </ul>
 
-[3.] Nhumanité & écriture
+[3.] Cartographie d'écriture
 <ul>
-  <li><a href="" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/IhWMtkgqYNAabSH" onclick = "window.open(this.href); return false;">podcast</a></li>
   <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-10-3.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
 </ul>
 
 [4.] Contrainte d'écriture
 <ul>
-  <li><a href="" onclick = "window.open(this.href); return false;">podcast</a></li>
-  <li><a href="" target="_blank">document commun</a></li>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/h4rAhIYZdbMAORa" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://demo.hedgedoc.org/sJETWA-EQiOpmqcYxp5CSQ#" target="_blank">document commun</a></li>
 </ul>
 
 ### Rencontre synchrone 
