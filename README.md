@@ -360,8 +360,37 @@ Quizz : <a href="https://framaforms.org/quel-modele-de-representation-1611591085
 
 ## Séance 11 - *Écriture glitch* : 2 avril 
 
-- séances asynchrones : podcasts théorie & pratique
-- séance synchrone : atelier, question & discussion
+
+### Matériel asynchrone :
+
+[1.] Structure de la séance
+
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/LJJu44iqXlqpdl7" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-11-1.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>  
+
+[2.] Imaginaire du Bug
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/urymeRgIdRVie2x" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-11-2.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>
+
+[3.] Écriture Glitch
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/k7m2lqM0h1lhZzY" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-11-3.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>
+
+[4.] Détournement par l'écriture
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/4MQAyZS8EMwZIOC" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-11-4.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+
+</ul>
+
+### Pas de Rencontre synchrone 
+
 
 <img src="slides/img/palimpseste.png" width="8%" align="left"/>
 
