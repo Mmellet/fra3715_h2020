@@ -430,7 +430,7 @@ Quizz : <a href="https://framaforms.org/quel-modele-de-representation-1611591085
 
 <img src="slides/img/photo.jpg" width="8%" align="left"/>
 
-## Séance 13 - *Titre à venir* : 16 avril
+## Séance 13 - États d'écritures : 16 avril
 
 - séances asynchrones : podcasts théorie & pratique
 - séance synchrone : atelier, question & discussion
