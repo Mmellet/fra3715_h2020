@@ -428,10 +428,43 @@ Quizz : <a href="https://framaforms.org/quel-modele-de-representation-1611591085
 
    
 
-<img src="slides/img/photo.jpg" width="8%" align="left"/>
+<img src="slides/img/brouillon.jpg" width="8%" align="left"/>
 
 ## Séance 13 - États d'écritures : 16 avril
 
-- séances asynchrones : podcasts théorie & pratique
-- séance synchrone : atelier, question & discussion
+
+
+
+### Matériel asynchrone :
+
+[1.] Structure de la séance
+
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/rWNymUXJVYhheTS" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-13-1.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>  
+
+[2.] Fabriques d'écriture
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/eg1RMI1uSeUmlSk" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-13-2.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>
+
+[3.] Édition & Versions d'écriture
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/fldYFkJz0J7bWu1" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-13-3.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>
+
+[4.] Bilan du cours
+<ul>
+  <li><a href="http://owncloud.ecrituresnumeriques.ca/index.php/s/d1tfdL7iINiqdfv" onclick = "window.open(this.href); return false;">podcast</a></li>
+  <li><a href="https://mmellet.github.io/fra3715_h2020/slides/Seance-13-4.html#/" onclick = "window.open(this.href); return false;">slides</a></li>
+</ul>
+
+### Rencontre synchrone 
+
+- horaire : 9h30
+
+- [lien pour la rencontre](https://meet.jit.si/FRA3715_H21-16avril)
 
